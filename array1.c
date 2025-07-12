@@ -2,6 +2,7 @@
 int main()
 {
   int marks[10];
+  printf("Enter up to 10 student's marks");
   
   for(int i=0;i<=9;i++)
     {
