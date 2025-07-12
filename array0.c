@@ -14,4 +14,6 @@ for(int i=0;i<=9;i++){
 }
 float avg=sum/10;
 printf("The average of the array element is %f.",avg);
+
+ return 0;
 }
