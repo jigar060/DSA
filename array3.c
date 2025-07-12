@@ -26,4 +26,5 @@ int main()
         }
     }
     printf("Number %d not found.",search);
+    return 0;
 }
