@@ -23,4 +23,6 @@ int main()
    }
  printf("Total pass %d\n",countPass);
  printf("Total fail %d\n",countFail);
+
+return 0;
 }
