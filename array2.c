@@ -2,7 +2,7 @@
 
 int main() {
   int marks[10];
-
+  printf("Enter upto 10 studet's marks");
   for(int i=0;i<=9;i++)
     {
      scanf("%d",&marks[i]);
